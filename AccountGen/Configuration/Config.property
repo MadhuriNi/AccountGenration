@@ -1,0 +1,14 @@
+
+Browser=firefox
+
+FirefoxDriverPath=webdriver.gecko.driver
+FirefoxDriver=C:\\geckodriver-v0.18.0-win64\\geckodriver.exe
+
+ChromeDriverPath=webdriver.chrome.driver
+ChromeDriver=C:\\chromedriver_win32\\chromedriver.exe
+
+IEDriverPath=webdriver.ie.driver
+IEDriver=C:\\IEDriverServer_Win32_3.7.0\\IEDriverServer.exe
+
+URL=https://ecamdev.idev.fedex.com/ecam/index.html
+

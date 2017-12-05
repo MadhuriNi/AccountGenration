@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2017-12-05T04:29:43Z" name="Default suite" finished-at="2017-12-05T04:30:08Z" duration-ms="24956">
+    <groups>
+    </groups>
+    <test started-at="2017-12-05T04:29:43Z" name="Default test" finished-at="2017-12-05T04:30:08Z" duration-ms="24956">
+      <class name="Selenium_Prj.mainClass">
+        <test-method signature="baseNavigation()[pri:0, instance:Selenium_Prj.mainClass@45c7e403]" started-at="2017-12-04T23:29:43Z" name="baseNavigation" finished-at="2017-12-04T23:30:08Z" duration-ms="24928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseNavigation -->
+      </class> <!-- Selenium_Prj.mainClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
