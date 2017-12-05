@@ -25,6 +25,9 @@ public class mainClass extends baseClass{
 	public void baseNavigation() throws Exception
 	{
 		
+		
+		
+		
 		driver=initializeDriver();
 		
 		driver.manage().window().maximize();
